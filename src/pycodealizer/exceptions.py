@@ -1,0 +1,2 @@
+class UnknownContextException(BaseException):
+    pass
